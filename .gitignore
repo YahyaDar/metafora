@@ -1,0 +1,8 @@
+# IDE Config Files
+.idea/
+
+# Python Virtual Environment
+env/
+
+# Database
+db.sqlite3
